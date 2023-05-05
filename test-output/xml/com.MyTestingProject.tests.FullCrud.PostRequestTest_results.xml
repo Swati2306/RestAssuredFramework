@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="RestAssuredProject"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="3.204">
+    <properties></properties>
+
+
+
+            <testcase
+                name="Test_Post_CreateBooking"
+                time="3.204"
+                classname="com.MyTestingProject.tests.FullCrud.PostRequestTest">
+            </testcase>
+</testsuite>

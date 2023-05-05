@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="RestAssuredProject"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="3.153">
+    <properties></properties>
+
+
+
+            <testcase
+                name="Test_Get"
+                time="3.153"
+                classname="com.MyTestingProject.tests.FullCrud.GETRequest">
+            </testcase>
+</testsuite>
